@@ -1,0 +1,29 @@
+{
+    "identifier": "com.openrouter.translate",
+    "versions": [
+        {
+            "version": "0.1.4",
+            "desc": "修复语言支持问题，优化界面显示",
+            "sha256": "41603fa47376e635d1b4f483355bedcd025c25d585eac357aac99f769508bdd7",
+            "url": "https://github.com/helloChenLei/bob-plugin-openrouter/releases/download/v0.1.4/bob-plugin-openrouter.bobplugin",
+            "minBobVersion": "0.5.0",
+            "timestamp": 1710321600000
+        },
+        {
+            "version": "0.1.3",
+            "desc": "优化插件配置界面",
+            "sha256": "ec61012b970b6b1fd81ebffd338c8da3fb7dae9346cea114049ca7fcabedfae9",
+            "url": "https://github.com/helloChenLei/bob-plugin-openrouter/releases/download/v0.1.1/bob-plugin-openrouter.bobplugin",
+            "minBobVersion": "0.5.0",
+            "timestamp": 1710321600000
+        },
+        {
+            "version": "0.1.0",
+            "desc": "初始版本",
+            "sha256": "2553fa17b03346eb2db39ab40676e080ef4dca5426cdf000a7785f276f28c323",
+            "url": "https://github.com/helloChenLei/bob-plugin-openrouter/releases/download/v0.1.0/bob-plugin-openrouter.bobplugin",
+            "minBobVersion": "0.5.0",
+            "timestamp": 1710000000000
+        }
+    ]
+} 
