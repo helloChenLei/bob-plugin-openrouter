@@ -2,7 +2,7 @@
     "identifier": "com.openrouter.translate",
     "type": "translate",
     "name": "OpenRouter",
-    "version": "0.1.4",
+    "version": "0.1.7",
     "supportedLanguages": [
         "auto",
         "zh-Hans",
